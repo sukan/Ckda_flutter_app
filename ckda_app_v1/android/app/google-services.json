@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "359843911259",
+    "firebase_url": "https://ckda-app-v1.firebaseio.com",
+    "project_id": "ckda-app-v1",
+    "storage_bucket": "ckda-app-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359843911259:android:c9052b7a5a5cf48f9fd17e",
+        "android_client_info": {
+          "package_name": "com.example.ckda_app_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359843911259-kgcf2q1l59q4cmnqcvvj3a4s974msg2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClbGf5QROCrLiFIdoH0bneRB24HXGWRvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359843911259-kgcf2q1l59q4cmnqcvvj3a4s974msg2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
